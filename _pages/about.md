@@ -1,10 +1,12 @@
 ---
 permalink: /
-title: "Hello"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is my homepage.
+# About
+
+# Research Interests
