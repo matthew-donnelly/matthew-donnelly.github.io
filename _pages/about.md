@@ -13,6 +13,8 @@ I am an experimental physicist with experience in nanofabrication, cryogenic mea
 
 # Research Interests
 
-## Atomically Precise Fabrication :left_right_arrow: Analogue Quantum Simulation
+## Atomically Precise Fabrication 
+
+
 
 
