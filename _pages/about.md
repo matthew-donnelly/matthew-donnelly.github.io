@@ -15,7 +15,4 @@ I am an experimental physicist with experience in nanofabrication, cryogenic mea
 
 ## Atomically Precise Fabrication 
 
-<img width="1336" height="767" alt="image" src="https://github.com/user-attachments/assets/d903112f-81fb-43ba-9eec-7b1570842f43" />
-
-
-
+Condensed matter physics is, in part, concerned with microscopic details of matter, and how these details lead to macroscopic phenomena. Think BCS theory and superconductivty, or bandstructure theory and metallic/insulating materials. Experimental methods therefore strive to control microscopic details and observe the effects of changes in them. Many methods control misccopic details through changes that effect relatively large regions of a material or device, such as the twist-angle in twisted bilayer graphene or band engineering in semiconductor heterostructures. Techniques also exist to engineer microscopic details at a more granular level, and it is one of these techniques that first drew me to experimental research: scanning tunnelling microscopy (STM). 
