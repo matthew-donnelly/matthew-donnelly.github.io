@@ -15,6 +15,7 @@ I am an experimental physicist with experience in nanofabrication, cryogenic mea
 
 ## Atomically Precise Fabrication 
 
+<img width="1336" height="767" alt="image" src="https://github.com/user-attachments/assets/d903112f-81fb-43ba-9eec-7b1570842f43" />
 
 
 
