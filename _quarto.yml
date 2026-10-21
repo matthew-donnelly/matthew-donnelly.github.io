@@ -1,0 +1,22 @@
+project:
+  type: website
+  resources:
+    - CNAME          # only if you have a custom domain
+
+website:
+  site-url: https://matthew-donnelly.github.io     # or your custom domain
+  title: "The Blog Sphere"
+  navbar:
+    right:
+      - text: Blog
+        href: index.qmd
+      - about.qmd
+
+format:
+  html:
+    theme:
+      light: litera
+      dark: darkly
+    html-math-method: katex
+    toc: false
+
